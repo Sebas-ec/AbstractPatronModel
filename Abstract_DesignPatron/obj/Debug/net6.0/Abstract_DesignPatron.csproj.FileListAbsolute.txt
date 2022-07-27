@@ -1,0 +1,15 @@
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\bin\Debug\net6.0\Abstract_DesignPatron.exe
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\bin\Debug\net6.0\Abstract_DesignPatron.deps.json
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\bin\Debug\net6.0\Abstract_DesignPatron.runtimeconfig.json
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\bin\Debug\net6.0\Abstract_DesignPatron.dll
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\bin\Debug\net6.0\Abstract_DesignPatron.pdb
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.csproj.AssemblyReference.cache
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.AssemblyInfoInputs.cache
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.AssemblyInfo.cs
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.csproj.CoreCompileInputs.cache
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.dll
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\refint\Abstract_DesignPatron.dll
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.pdb
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\Abstract_DesignPatron.genruntimeconfig.cache
+C:\Users\josel\Desktop\C#\Abstract_DesignPatron\Abstract_DesignPatron\obj\Debug\net6.0\ref\Abstract_DesignPatron.dll
